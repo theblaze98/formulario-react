@@ -1,5 +1,3 @@
-import { useState } from 'React'
-
 function Input({ type, title, id }) {
 
     return (
