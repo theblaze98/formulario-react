@@ -622,7 +622,7 @@ video {
 }
 
 .bg-fondo {
-  background-image: url(./src/assets/fondo.jpg);
+  background-image: url('/assets/fondo.jpg');
 }
 
 .bg-cover {
